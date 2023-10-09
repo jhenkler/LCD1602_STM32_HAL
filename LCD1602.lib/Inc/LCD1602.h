@@ -43,6 +43,9 @@
 #define LCD_5x8_FONT 0x00
 #define LCD_5x10_FONT 0x04
 
+// Port definition
+#define GPIO_PORT GPIOA
+
 // Pin definitions
 #define ENABLE_PIN GPIO_PIN_0
 #define PIN_D0 GPIO_PIN_5
