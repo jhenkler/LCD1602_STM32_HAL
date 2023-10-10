@@ -3,12 +3,12 @@ Welcome to the HAL display driver for LCD1602, a versatile display solution offe
 Let's take a closer look at the connection schematics, ensuring you get your LCD1602 display up and running seamlessly:
 
 Four-Bit Connection:
-![LCD1602_4bit](https://github.com/jhenkler/LCD1602_STM32_HAL/assets/147257321/013f96b0-e780-4a6f-9447-2f223dbea1dc)
-![1000002773](https://github.com/jhenkler/LCD1602_STM32_HAL/assets/147257321/d54bc253-71f1-41d0-ac63-7002c0ba7115)
+![LCD1602_4bit](https://github.com/jhenkler/LCD1602_STM32_HAL/assets/147257321/79c4c517-5c79-4c95-91bf-23ec41cfd6da)
+![1000002773](https://github.com/jhenkler/LCD1602_STM32_HAL/assets/147257321/44228eb5-22ae-401a-9f87-e3fa7f7ec748)
 
 Eight-Bit Connection:
-![LCD1602_8bit](https://github.com/jhenkler/LCD1602_STM32_HAL/assets/147257321/b76acee7-d6c7-4201-8af6-b5f4bc987f7b)
-![1000002775](https://github.com/jhenkler/LCD1602_STM32_HAL/assets/147257321/5dcc155b-4ae9-4215-9090-c36dfefd0d21)
+![LCD1602_8bit](https://github.com/jhenkler/LCD1602_STM32_HAL/assets/147257321/763b9ecc-e389-49f3-8d3c-4004b22febd1)
+![1000002775](https://github.com/jhenkler/LCD1602_STM32_HAL/assets/147257321/3a01199e-f5a3-4aa5-8bde-542882a33372)
 
 
 This driver is designed to adapt effortlessly to other HAL-enabled devices with minor adjustments. Simply modify the timer and GPIO settings to seamlessly integrate with your specific hardware. GPIO definitions are conveniently located in the LCD1602.h file, making the process a breeze.
